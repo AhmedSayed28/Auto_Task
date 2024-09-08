@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbc590aa-2413-48c3-8e1a-b7d4609a97da" name="Changes" comment="create a project structure">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/RegisterFormPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/SignUpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Runner/suit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Runner/suit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Resources/test.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ContactPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/InternApplyNowForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/NavBar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ContactFormTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/HomeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/InternApplyNowTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/NavBarTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

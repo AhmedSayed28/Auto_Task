@@ -3,10 +3,7 @@
     <test name="testngTest">
         <parameter name="Wakeb" value="Wakeb WebSite"/>
         <classes>
-            <class name="tests.HomeTest"/>
-            <class name="tests.NavBarTest"/>
             <class name="tests.SignUpTest"/>
-            <class name="tests.InternApplyNowTest"/>
         </classes>
     </test>
 </suite>
