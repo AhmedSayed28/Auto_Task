@@ -47,4 +47,5 @@ This project is an automated testing solution for a user registration form using
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AhmedSayed28/Auto_Task/edit/master
+   git clone https://github.com/AhmedSayed28/Auto_Task.git
+)
