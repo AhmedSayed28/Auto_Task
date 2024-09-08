@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="login test cases">
+    <test name="testngTest">
+        <parameter name="Wakeb" value="Wakeb WebSite"/>
+        <classes>
+            <class name="tests.HomeTest"/>
+            <class name="tests.NavBarTest"/>
+            <class name="tests.ContactFormTest"/>
+            <class name="tests.InternApplyNowTest"/>
+        </classes>
+    </test>
+</suite>
