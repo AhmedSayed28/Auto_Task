@@ -16,7 +16,6 @@ public class Base {
     private final long timeoutInSeconds = 20;
     WebDriverWait webDriverWait;
     public Base(WebDriver driver) {
-        //driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         webDriverWait = new WebDriverWait(driver, Duration.ofSeconds(timeoutInSeconds));
         Base.driver = driver;
