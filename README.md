@@ -35,7 +35,6 @@ This project is an automated testing solution for a user registration form using
 ## Limitations
 
 - **Browser Compatibility**: The solution is tested primarily on specific browser versions. Additional configuration may be required to ensure compatibility with other browsers.
-- **Data Hardcoding**: Some test data elements are hardcoded; future enhancements may include fully dynamic data sources for greater flexibility.
 
 ## How It Works
 
@@ -48,4 +47,4 @@ This project is an automated testing solution for a user registration form using
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AhmedSayed28/Auto_Task/edit/master
