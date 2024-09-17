@@ -8,7 +8,7 @@ This project is an automated testing solution for a user registration form using
 
 - **.idea**: Project-specific IDE configuration files.
 - **Reports**: Contains test execution reports and screenshots.
-  - `screenshots`: Directory for storing screenshots captured during tests.
+  - `screenshots`: Directory for storing screenshots captured during testsss.
   - `spark`: Directory for Spark report outputs.
   - `extent-report.html`: HTML file containing detailed ExtentReports results.
   - `extent-reports-config.json`: Configuration file for ExtentReports.
@@ -16,10 +16,10 @@ This project is an automated testing solution for a user registration form using
   - `suit.xml`: XML file for defining test suites and execution.
 - **src**: Source code directory.
   - **main/java/org.example/pages/RegisterFormPage**: Page Object Model (POM) class for interacting with the registration form.
-  - **test/java/tests**: Contains test classes and utility classes.
+  - **test/java/testsss**: Contains test classes and utility classes.
     - `HelperClass`: Utility methods and helpers for test cases.
     - `SignUpTest`: Test class for verifying user registration functionality.
-    - `TestBase`: Base class providing setup and teardown methods for tests.
+    - `TestBase`: Base class providing setup and teardown methods for testsss.
 - **target**: Compiled code and build artifacts.
 - **.gitignore**: Specifies files and directories to be ignored by Git.
 - **pom.xml**: Maven configuration file managing project dependencies and build settings.
@@ -30,7 +30,7 @@ This project is an automated testing solution for a user registration form using
 - **Data-Driven Testing**: Utilizes Faker library to generate dynamic test data, including names, emails, and phone numbers.
 - **Automated Reporting**: Integration with ExtentReports and Spark for comprehensive reporting of test results.
 - **Dynamic Data Management**: Reads static test data from an external JSON file, allowing easy updates without code changes.
-- **Screenshot Capture**: Automatically captures screenshots of the browser during test execution for easier debugging of failed tests.
+- **Screenshot Capture**: Automatically captures screenshots of the browser during test execution for easier debugging of failed testsss.
 
 ## Limitations
 

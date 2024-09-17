@@ -11,10 +11,10 @@ import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 public class Base {
     protected static WebDriver driver;
-    SoftAssert soft = new SoftAssert();
-
     private final long timeoutInSeconds = 20;
     WebDriverWait webDriverWait;
+
+
     public Base(WebDriver driver) {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         webDriverWait = new WebDriverWait(driver, Duration.ofSeconds(timeoutInSeconds));

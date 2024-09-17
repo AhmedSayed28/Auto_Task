@@ -8,14 +8,13 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.*;
 
 import java.awt.*;
 import java.io.File;
 import java.io.IOException;
-import java.util.concurrent.TimeUnit;
+
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -67,14 +66,13 @@ public class TestBase {
         extent.attachReporter(reporter);
 
         // Initialize the WebDriver instance
-        WebDriverManager.chromedriver().clearDriverCache().setup();
-        driver = new ChromeDriver();
+        driver = new FirefoxDriver();
 
-        ChromeOptions options = new ChromeOptions();
-        options.setCapability("browserVersion","126.0.6478.126");
+//        ChromeOptions options = new ChromeOptions();
+//        options.setCapability("browserVersion","126.0.6478.126");
         driver.manage().window().maximize();
         if (executeBeforeMethod) {
-            driver.get("https://codenboxautomationlab.com/registration-form/");
+            driver.get("https://duckduckgo.com/");
         }
     }
 

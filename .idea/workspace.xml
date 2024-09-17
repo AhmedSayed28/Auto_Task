@@ -5,7 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbc590aa-2413-48c3-8e1a-b7d4609a97da" name="Changes" comment="create a project structure">
-      <change beforePath="$PROJECT_DIR$/Runner/suit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Runner/suit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uploads/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/searchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/extent-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/extent-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/spark/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/spark/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/spark/jsontree.js" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/jsontree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/spark/spark-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/spark-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/spark/spark-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/spark-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/RegisterFormPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/SignUpTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/RegisterFormPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/SignUpTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +48,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AhmedSayed28"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AhmedSayed28&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AhmedSayed28/Auto_Task.git",
-    "accountId": "ed44ef6d-7f99-479e-8ca2-0122e084a5bc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AhmedSayed28/Auto_Task.git&quot;,
+    &quot;accountId&quot;: &quot;ed44ef6d-7f99-479e-8ca2-0122e084a5bc&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -55,16 +76,79 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.ActionsClassOnElements.ActionClass.executor": "Run",
+    "TestNG.AlertHandling.executor": "Run",
     "TestNG.ContactFormTest.executor": "Run",
+    "TestNG.ProductsTests.executor": "Run",
+    "TestNG.RegistrationTest.UserCanRegisterNewAccount.executor": "Run",
     "TestNG.SignUpTest.executor": "Run",
+    "TestNG.UploadFiles.executor": "Run",
+    "TestNG.searchTest.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/qaahm/Downloads/Auto_Task",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qaahm\Downloads\Auto_Task" />
+      <recent name="C:\Users\qaahm\Downloads\Auto_Task\src" />
+      <recent name="C:\Users\qaahm\Downloads\Auto_Task\Runner" />
+      <recent name="C:\Users\qaahm\Downloads\Auto_Task\src\test\java" />
+      <recent name="C:\Users\qaahm\Downloads\Auto_Task\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qaahm\Downloads\Auto_Task" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ActionsClassOnElements.ActionClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GetHoldingsTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumActions.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumActions.Tests" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumActions.Tests.ActionsClassOnElements" />
+      <option name="METHOD_NAME" value="ActionClass" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest.UserCanRegisterNewAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GetHoldingsTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nopCommerceTraining.DemoTests.Registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nopCommerceTraining.DemoTests.Registration" />
+      <option name="MAIN_CLASS_NAME" value="nopCommerceTraining.DemoTests.Registration.RegistrationTest" />
+      <option name="METHOD_NAME" value="UserCanRegisterNewAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ActionsClassOnElements.ActionClass" />
+        <item itemvalue="TestNG.RegistrationTest.UserCanRegisterNewAccount" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,5 +173,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="create a project structure" />
     <option name="LAST_COMMIT_MESSAGE" value="create a project structure" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Auto_Task$ActionsClassOnElements_ActionClass.ic" NAME="ActionsClassOnElements.ActionClass Coverage Results" MODIFIED="1726481394292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>SeleniumActions.Tests.*</FILTER>
+    </SUITE>
   </component>
 </project>
