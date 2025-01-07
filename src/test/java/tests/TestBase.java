@@ -72,7 +72,7 @@ public class TestBase {
 //        options.setCapability("browserVersion","126.0.6478.126");
         driver.manage().window().maximize();
         if (executeBeforeMethod) {
-            driver.get("https://duckduckgo.com/");
+            driver.get("https://newdev.matgry.net/Login");
         }
     }
 

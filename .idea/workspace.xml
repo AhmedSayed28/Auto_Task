@@ -5,27 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbc590aa-2413-48c3-8e1a-b7d4609a97da" name="Changes" comment="create a project structure">
-      <change afterPath="$PROJECT_DIR$/src/Uploads/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/searchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0a8d91d7-16e6-460c-8210-33104bcef425-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0b862e35-9e18-48c6-b6fd-55ddd3721e06-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3b3ba31a-fa4a-4709-a785-088a8a9b7d74-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f69ffc3-21c4-47d6-9ce6-4ae7fd8ed4d1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/41ce0dbb-4897-4615-97f0-804e3afcf348-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/57fe71b6-87e3-4c42-8247-3ebd0dfcbf81-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/599ff905-1dd4-42a9-be5c-4b06419daa70-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5e08b074-c408-478e-bb11-225485542dc7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ed105fa-4cde-432b-82b5-52fdb0e49a5e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/60bb14f2-c909-4270-a9fd-34d81ed7cbf9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6702f101-1f7c-436f-8dc7-55c8751a50bc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6bc9ad31-abcf-4ec2-8d9b-753aa7794e11-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8b8c1a5b-8c9c-4c51-b651-67aec6a22bf0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8c1dbd88-d210-401b-9719-dc1659a48d00-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ccb18b5-7e8b-42d0-9f4f-28c57700a8b4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a35f8bf0-46a8-4465-b80d-439a06e05367-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a3c1a07c-c290-42fa-b30f-5d62b70f22e2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b01786ec-3142-4cda-9f5c-439c597e91b2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b6faf202-8e5c-4214-886c-af39369591a5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b7399d4c-f067-4ebf-89e2-d6585c638f3a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bbf4b85d-ffc0-47c8-b9ea-d95fc5f86e41-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1ab4631-8e1d-4fa1-bfa2-9136ce229ce8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e1a5c804-64dd-4add-a0f9-f5a94b9545e3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e50a2491-c9aa-4c5d-b5f7-87293bb2d4be-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e5c6f0f0-1891-4e43-8e47-44c11b396729-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fe59a6f3-7aeb-45ad-975c-c7d7c122d04d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reports/extent-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/extent-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reports/spark/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/font-awesome.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reports/spark/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/fontawesome-webfont.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reports/spark/jsontree.js" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/jsontree.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reports/spark/spark-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/spark-script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reports/spark/spark-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/spark/spark-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/RegisterFormPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/SignUpTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uploads/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/RegisterFormPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/SignUpTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/searchTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,12 +74,12 @@
     &quot;assignee&quot;: &quot;AhmedSayed28&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/AhmedSayed28/Auto_Task.git&quot;,
-    &quot;accountId&quot;: &quot;ed44ef6d-7f99-479e-8ca2-0122e084a5bc&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AhmedSayed28/Auto_Task.git",
+    "accountId": "1023fb67-d9e1-4255-a3a2-824055ae9a47"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -79,6 +99,7 @@
     "TestNG.ActionsClassOnElements.ActionClass.executor": "Run",
     "TestNG.AlertHandling.executor": "Run",
     "TestNG.ContactFormTest.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
     "TestNG.ProductsTests.executor": "Run",
     "TestNG.RegistrationTest.UserCanRegisterNewAccount.executor": "Run",
     "TestNG.SignUpTest.executor": "Run",
@@ -86,7 +107,7 @@
     "TestNG.searchTest.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/qaahm/Downloads/Auto_Task",
+    "last_opened_file_path": "D:/Youtube_projects/Auto_Task",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
